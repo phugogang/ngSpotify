@@ -1,4 +1,4 @@
-# testgithubsearch
+# ng github-pages:deploy
 
 http://developer.telerik.com/featured/quick-angular-2-hosting-angular-cli-github-pages/
 
